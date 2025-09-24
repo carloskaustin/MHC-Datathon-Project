@@ -30,17 +30,17 @@ Main Violation Types:
 We combined violation data with bus route segment speeds to measure the effect of traffic violations on delays.
 
 [MTA Bus Automated Camera Enforcement Violations: Beginning 2019](https://data.ny.gov/Transportation/MTA-Bus-Automated-Camera-Enforcement-Violations-Be/kh8p-hcbm/data_preview)
-MTA Bus Automated Camera Enforcement Violations: Beginning 2019
 
-- Contains records of traffic violations (bus lane, double parked, bus stop blockages).
+- Contains records of traffic violations (bus lane, double parked, bus stop blockages) captured by ACE cameras dating back to 2019.
 
 [MTA Bus Route Segment Speeds: Beginning 2025](https://data.ny.gov/Transportation/MTA-Bus-Route-Segment-Speeds-Beginning-2025/kufs-yh3x/data_preview)
-MTA Bus Route Segment Speeds: Beginning 2025
+
+- Historical dataset of bus segment speed and travel times for 2025.
 
 [MTA Bus Route Segment Speeds: 2023–2024](https://data.ny.gov/Transportation/MTA-Bus-Route-Segment-Speeds-2023-2024/58t6-89vi/about_data)
 MTA Bus Route Segment Speeds: 2023–2024
 
-- Historical dataset of bus segment speeds for 2023–2024.
+- Historical dataset of bus segment speeds and travel times for 2023–2024.
 
 ## 🛠️ Methods
 
