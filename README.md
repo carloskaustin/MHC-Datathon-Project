@@ -19,13 +19,13 @@ Bus stop violations – vehicles obstructing designated bus stops.
 
 Double parking violations – vehicles blocking traffic by parking illegally alongside another vehicle.
 
-❓ Research Questions
+## ❓ Research Questions
 
 Should all fines cost the same amount?
 
 Do some violations affect travel time more than others?
 
-📊 Datasets
+## 📊 Datasets
 
 We combined violation data with bus route segment speeds to measure the effect of traffic violations on delays.
 
@@ -41,7 +41,7 @@ MTA Bus Route Segment Speeds (2023–2024)
 
 Historical dataset of bus segment speeds for 2023–2024.
 
-🛠️ Methods
+## 🛠️ Methods
 
 Tools Used:
 
@@ -61,7 +61,7 @@ Built bar charts and a pie chart in Python to visualize violation frequency and 
 
 Designed a PowerPoint presentation to communicate insights and recommendations.
 
-🔑 Key Findings
+## 🔑 Key Findings
 
 Bus lane violations added about 5 minutes per segment at certain violation counts, making them the most impactful violation type.
 
@@ -69,11 +69,11 @@ Even small per-segment delays compound across full bus routes, affecting thousan
 
 Current fines ($50 first offense) are uniform, but findings suggest some violations (like bus lane blockages) have disproportionately higher impacts — raising the question of whether fines should vary by violation type.
 
-⚠️ Limitations
+## ⚠️ Limitations
 
 The analysis could not fully isolate each violation type by holding the other two at zero. For example, bus-lane violations were not measured independently of bus-stop and double-parked violations, so overlap may influence the observed delays.
 
-💡 Business Recommendations
+## 💡 Business Recommendations
 
 Reevaluate Fine Structures: Consider differentiated fines that reflect the severity of travel time impact.
 
@@ -89,7 +89,7 @@ Highlight fines and reinforce enforcement efforts.
 
 Use data-driven messaging to shift driver behavior.
 
-📈 Visuals
+## 📈 Visuals
 
 Bar chart: violation counts vs. average travel time per segment.
 
@@ -97,18 +97,8 @@ Pie chart: proportion of violations by type.
 
 Selected charts integrated into a PowerPoint slide deck for final presentation.
 
-👥 Team
-
-This project was developed as part of the MHC++ Datathon with a collaborative team effort.
-
-Role: Data Cleaning & Integration, Visualization, Policy Recommendations
-
-Contributors: [Add team member names if applicable]
-
-🚀 Next Steps
-
-Expand analysis to measure full-route travel delays (not just segments).
+## 🚀 Next Steps
 
 Develop a pricing model to adequately match fine amounts to the level of delay each violation type causes for NYC buses.
 
-Combine with NYC ridership data to calculate total rider hours lost from violations.
+Create public campaigns to alert citizens how violations can slow down buses for thousands of NYC riders
