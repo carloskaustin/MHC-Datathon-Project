@@ -51,15 +51,15 @@ We combined violation data with bus route segment travel times to measure the ef
 
   - Microsoft PowerPoint for presenting findings
 
-Steps:
+- Steps:
 
-1. Cleaned and merged datasets by stop ID, route, date, and hour.
+  1. Cleaned and merged datasets by stop ID, route, date, and hour.
 
-2. Computed average travel times across segments for each violation type.
+  2. Computed average travel times across segments for each violation type.
 
-3. Built bar charts and a pie chart in Python to visualize violation frequency and impact.
+  3. Built bar charts and a pie chart in Python to visualize violation frequency and impact.
 
-4. Designed a PowerPoint presentation to communicate insights and recommendations.
+  4. Designed a PowerPoint presentation to communicate insights and recommendations.
 
 ## 🔑 Key Findings
 
