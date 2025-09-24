@@ -104,23 +104,23 @@ We combined violation data with bus route segment travel times to measure the ef
 This repository includes all files developed and submitted for the MHC++ Datathon:
 
 1. MHC++ Datathon Project.ipynb
-  - Jupyter Notebook containing all Python code used for cleaning, merging, and analyzing the datasets, as well as generating charts.
+    - Jupyter Notebook containing all Python code used for cleaning, merging, and analyzing the datasets, as well as generating charts.
 
 2. MHC++ Datathon Presentation Slides.pdf
-  - Full presentation slides used during the datathon, including visuals, key findings, and recommendations.
+    - Full presentation slides used during the datathon, including visuals, key findings, and recommendations.
 
 3. MHC++ Datathon Condensed Video Presentation.mp4
-  - A short video summarizing the project, where the team explains the analysis and findings using a condensed version of the slides.
+    - A short video summarizing the project, where the team explains the analysis and findings using a condensed version of the slides.
   
 ## 🧠 Lessons Learned
 
 1. Understand the dataset deeply by studying the data dictionary 
 
-  - Use the data dictionary to confirm exactly what each column represents (definitions, units, valid values).
+    - Use the data dictionary to confirm exactly what each column represents (definitions, units, valid values).
 
 2. Don’t get stuck on one idea.
 
-  - Be willing to pivot from you original idea or ask new questions as patterns emerge. An iterating process allows for clearer research questions and more actionable findings.
+    - Be willing to pivot from you original idea or ask new questions as patterns emerge. An iterating process allows for clearer research questions and more actionable findings.
 
 ## 🚀 Next Steps
 
