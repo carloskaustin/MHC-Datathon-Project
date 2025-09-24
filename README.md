@@ -29,49 +29,49 @@ Main Violation Types:
 
 We combined violation data with bus route segment speeds to measure the effect of traffic violations on delays.
 
-- MTA Bus Automated Camera Enforcement Violations
+MTA Bus Automated Camera Enforcement Violations
 
-Contains records of traffic violations (bus lane, double parked, bus stop blockages).
+- Contains records of traffic violations (bus lane, double parked, bus stop blockages).
 
-- MTA Bus Route Segment Speeds (Beginning 2025)
+MTA Bus Route Segment Speeds (Beginning 2025)
 
-Records bus speeds by route segment starting in 2025.
+- Records bus speeds by route segment starting in 2025.
 
-- MTA Bus Route Segment Speeds (2023–2024)
+MTA Bus Route Segment Speeds (2023–2024)
 
-Historical dataset of bus segment speeds for 2023–2024.
+- Historical dataset of bus segment speeds for 2023–2024.
 
 ## 🛠️ Methods
 
 Tools Used:
 
-Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
 
-Jupyter Notebook for analysis
+- Jupyter Notebook for analysis
 
-Microsoft PowerPoint for presenting findings
+- Microsoft PowerPoint for presenting findings
 
 Steps:
 
-Cleaned and merged datasets by stop ID, route, date, and hour.
+1. Cleaned and merged datasets by stop ID, route, date, and hour.
 
-Computed average travel times across segments for each violation type.
+2. Computed average travel times across segments for each violation type.
 
-Built bar charts and a pie chart in Python to visualize violation frequency and impact.
+3. Built bar charts and a pie chart in Python to visualize violation frequency and impact.
 
-Designed a PowerPoint presentation to communicate insights and recommendations.
+4. Designed a PowerPoint presentation to communicate insights and recommendations.
 
 ## 🔑 Key Findings
 
-Bus lane violations added about 5 minutes per segment at certain violation counts, making them the most impactful violation type.
+- Bus lane violations added about 5 minutes per segment at certain violation counts, making them the most impactful violation type.
 
-Even small per-segment delays compound across full bus routes, affecting thousands of riders daily.
+- Even small per-segment delays compound across full bus routes, affecting thousands of riders daily.
 
-Current fines ($50 first offense) are uniform, but findings suggest some violations (like bus lane blockages) have disproportionately higher impacts — raising the question of whether fines should vary by violation type.
+- Current fines ($50 first offense) are uniform, but findings suggest some violations (like bus lane blockages) have disproportionately higher impacts — raising the question of whether fines should vary by violation type.
 
 ## ⚠️ Limitations
 
-The analysis could not fully isolate each violation type by holding the other two at zero. For example, bus-lane violations were not measured independently of bus-stop and double-parked violations, so overlap may influence the observed delays.
+- The analysis could not fully isolate each violation type by holding the other two at zero. For example, bus-lane violations were not measured independently of bus-stop and double-parked violations, so overlap may influence the observed delays.
 
 ## 💡 Business Recommendations
 
@@ -79,26 +79,26 @@ Reevaluate Fine Structures: Consider differentiated fines that reflect the sever
 
 Public Communication Campaigns:
 
-Share statistics with the public showing how violations slow buses for thousands of riders.
+- Share statistics with the public showing how violations slow buses for thousands of riders.
 
-Example message: “Bus lane violations have the potential to double travel time for NYC buses.”
+- Example message: “Bus lane violations have the potential to double travel time for NYC buses.”
 
 Deterrence Campaigns:
 
-Highlight fines and reinforce enforcement efforts.
+- Highlight fines and reinforce enforcement efforts.
 
-Use data-driven messaging to shift driver behavior.
+- Use data-driven messaging to shift driver behavior.
 
 ## 📈 Visuals
 
-Bar chart: violation counts vs. average travel time per segment.
+- Bar chart: violation counts vs. average travel time per segment.
 
-Pie chart: proportion of violations by type.
+- Pie chart: proportion of violations by type.
 
-Selected charts integrated into a PowerPoint slide deck for final presentation.
+- Selected charts integrated into a PowerPoint slide deck for final presentation.
 
 ## 🚀 Next Steps
 
-Develop a pricing model to adequately match fine amounts to the level of delay each violation type causes for NYC buses.
+- Develop a pricing model to adequately match fine amounts to the level of delay each violation type causes for NYC buses.
 
-Create public campaigns to alert citizens how violations can slow down buses for thousands of NYC riders
+- Create public campaigns to alert citizens how violations can slow down buses for thousands of NYC riders
