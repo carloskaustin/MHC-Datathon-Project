@@ -75,7 +75,9 @@ Steps:
 
 ## 💡 Business Recommendations
 
-Reevaluate Fine Structures: Consider differentiated fines that reflect the severity of travel time impact.
+Reevaluate Fine Structures: 
+
+- Consider differentiated fines that reflect the severity of travel time impact.
 
 Public Communication Campaigns:
 
