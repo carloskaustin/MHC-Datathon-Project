@@ -3,19 +3,6 @@
 
 This project was developed as part of the MHC++ Datathon, a competition focused on data-driven solutions to real-world problems. Our team analyzed MTA Bus Automated Camera Enforcement (ACE) violation data and bus speed data to understand how different types of traffic violations impact travel times and delays.
 
-## 📂 Repository Contents
-
-This repository includes all files developed and submitted for the MHC++ Datathon:
-
-MHC++ Datathon Project.ipynb
-- Jupyter Notebook containing all Python code used for cleaning, merging, and analyzing the datasets, as well as generating charts.
-
-MHC++ Datathon Presentation Slides.pdf
-- Full presentation slides used during the datathon, including visuals, key findings, and recommendations.
-
-MHC++ Datathon Condensed Video Presentation.mp4
-- A short video summarizing the project, where the team explains the analysis and findings using a condensed version of the slides.
-
 ## 🏙️ Background
 
 The Automated Camera Enforcement (ACE) program is used by the MTA to monitor traffic violations that disrupt bus operations. ACE cameras automatically detect vehicles committing violations and issue fines.
@@ -118,6 +105,19 @@ Deterrence Campaigns:
 
 - Selected charts integrated into a PowerPoint slide deck for final presentation.
 
+## 📂 Repository Contents
+
+This repository includes all files developed and submitted for the MHC++ Datathon:
+
+MHC++ Datathon Project.ipynb
+- Jupyter Notebook containing all Python code used for cleaning, merging, and analyzing the datasets, as well as generating charts.
+
+MHC++ Datathon Presentation Slides.pdf
+- Full presentation slides used during the datathon, including visuals, key findings, and recommendations.
+
+MHC++ Datathon Condensed Video Presentation.mp4
+- A short video summarizing the project, where the team explains the analysis and findings using a condensed version of the slides.
+  
 ## 🧠 Lessons Learned
 
 Understand the dataset deeply by studying the data dictionary 
