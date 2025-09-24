@@ -27,7 +27,7 @@ Main Violation Types:
 
 ## 📊 Datasets
 
-We combined violation data with bus route segment speeds to measure the effect of traffic violations on delays.
+We combined violation data with bus route segment travel times to measure the effect of traffic violations on average travel time.
 
 [MTA Bus Automated Camera Enforcement Violations: Beginning 2019](https://data.ny.gov/Transportation/MTA-Bus-Automated-Camera-Enforcement-Violations-Be/kh8p-hcbm/data_preview)
 
