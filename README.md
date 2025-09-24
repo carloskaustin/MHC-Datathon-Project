@@ -109,4 +109,4 @@ Deterrence Campaigns:
 
 - Develop a pricing model to adequately match fine amounts to the level of delay each violation type causes for NYC buses.
 
-- Create public campaigns to alert citizens how violations can slow down buses for thousands of NYC riders
+- Create communication and deterrence campaigns to inform citizens how violations can slow down buses for thousands of NYC riders
