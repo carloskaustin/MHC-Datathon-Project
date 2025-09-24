@@ -1,23 +1,23 @@
 # 🚍 NYC Bus Violation Impact Analysis
 ## 📖 Project Overview
 
-This project was developed as part of the MHC++ Datathon, a competition focused on data-driven solutions to real-world problems. Our team analyzed MTA Bus Automated Camera Enforcement (ACE) violation data and bus speed data to understand how different types of traffic violations impact travel times and delays.
+- This project was developed as part of the MHC++ Datathon, a competition focused on data-driven solutions to real-world problems. Our team analyzed MTA Bus Automated Camera Enforcement (ACE) violation data and bus speed data to understand how different types of traffic violations impact travel times and delays.
 
 ## 🏙️ Background
 
-The Automated Camera Enforcement (ACE) program is used by the MTA to monitor traffic violations that disrupt bus operations. ACE cameras automatically detect vehicles committing violations and issue fines.
+- The Automated Camera Enforcement (ACE) program is used by the MTA to monitor traffic violations that disrupt bus operations. ACE cameras automatically detect vehicles committing violations and issue fines.
 
-Initial Fine: $50 for a first violation
+- Initial Fine: $50 for a first violation
 
-Uniform Fines: All violations result in the same penalty, regardless of impact.
+- Uniform Fines: All violations result in the same penalty, regardless of impact.
 
-Main Violation Types:
+- Main Violation Types:
 
-- Bus lane violations – vehicles blocking or driving in bus-only lanes.
+  - Bus lane violations – vehicles blocking or driving in bus-only lanes.
 
-- Bus stop violations – vehicles obstructing designated bus stops.
+  - Bus stop violations – vehicles obstructing designated bus stops.
 
-- Double parking violations – vehicles blocking traffic by parking illegally alongside another vehicle.
+  - Double parking violations – vehicles blocking traffic by parking illegally alongside another vehicle.
 
 ## ❓ Research Questions
 
@@ -29,28 +29,28 @@ Main Violation Types:
 
 We combined violation data with bus route segment travel times to measure the effect of traffic violations on average travel time.
 
-[MTA Bus Automated Camera Enforcement Violations: Beginning 2019](https://data.ny.gov/Transportation/MTA-Bus-Automated-Camera-Enforcement-Violations-Be/kh8p-hcbm/data_preview)
+- [MTA Bus Automated Camera Enforcement Violations: Beginning 2019](https://data.ny.gov/Transportation/MTA-Bus-Automated-Camera-Enforcement-Violations-Be/kh8p-hcbm/data_preview)
 
-- Contains records of traffic violations (bus lane, double parked, bus stop blockages) captured by ACE cameras dating back to 2019.
+  - Contains records of traffic violations (bus lane, double parked, bus stop blockages) captured by ACE cameras dating back to 2019.
 
-[MTA Bus Route Segment Speeds: Beginning 2025](https://data.ny.gov/Transportation/MTA-Bus-Route-Segment-Speeds-Beginning-2025/kufs-yh3x/data_preview)
+- [MTA Bus Route Segment Speeds: Beginning 2025](https://data.ny.gov/Transportation/MTA-Bus-Route-Segment-Speeds-Beginning-2025/kufs-yh3x/data_preview)
 
-- Historical dataset of bus segment speed and travel times for 2025.
+  - Historical dataset of bus segment speed and travel times for 2025.
 
-[MTA Bus Route Segment Speeds: 2023–2024](https://data.ny.gov/Transportation/MTA-Bus-Route-Segment-Speeds-2023-2024/58t6-89vi/about_data)
+- [MTA Bus Route Segment Speeds: 2023–2024](https://data.ny.gov/Transportation/MTA-Bus-Route-Segment-Speeds-2023-2024/58t6-89vi/about_data)
 MTA Bus Route Segment Speeds: 2023–2024
 
-- Historical dataset of bus segment speeds and travel times for 2023–2024.
+  - Historical dataset of bus segment speeds and travel times for 2023–2024.
 
 ## 🛠️ Methods
 
-Tools Used:
+- Tools Used:
 
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
+  - Python (Pandas, NumPy, Matplotlib, Seaborn)
 
-- Jupyter Notebook for analysis
+  - Jupyter Notebook for analysis
 
-- Microsoft PowerPoint for presenting findings
+  - Microsoft PowerPoint for presenting findings
 
 Steps:
 
@@ -76,21 +76,21 @@ Steps:
 
 ## 💡 Business Recommendations
 
-Reevaluate Fine Structures: 
+- Reevaluate Fine Structures: 
 
-- Consider differentiated fines that reflect the severity of travel time impact.
+  - Consider differentiated fines that reflect the severity of travel time impact.
 
-Public Communication Campaigns:
+- Public Communication Campaigns:
 
-- Share statistics with the public showing how violations slow buses for thousands of riders.
+  - Share statistics with the public showing how violations slow buses for thousands of riders.
 
-- Example message: “Bus lane violations have the potential to double travel time for NYC buses.”
+  - Example message: “Bus lane violations have the potential to double travel time for NYC buses.”
 
-Deterrence Campaigns:
+- Deterrence Campaigns:
 
-- Highlight fines and reinforce enforcement efforts.
+  - Highlight fines and reinforce enforcement efforts.
 
-- Use data-driven messaging to shift driver behavior.
+  - Use data-driven messaging to shift driver behavior.
 
 ## 📈 Visuals
 
@@ -105,23 +105,23 @@ Deterrence Campaigns:
 This repository includes all files developed and submitted for the MHC++ Datathon:
 
 1. MHC++ Datathon Project.ipynb
-- Jupyter Notebook containing all Python code used for cleaning, merging, and analyzing the datasets, as well as generating charts.
+  - Jupyter Notebook containing all Python code used for cleaning, merging, and analyzing the datasets, as well as generating charts.
 
 2. MHC++ Datathon Presentation Slides.pdf
-- Full presentation slides used during the datathon, including visuals, key findings, and recommendations.
+  - Full presentation slides used during the datathon, including visuals, key findings, and recommendations.
 
 3. MHC++ Datathon Condensed Video Presentation.mp4
-- A short video summarizing the project, where the team explains the analysis and findings using a condensed version of the slides.
+  - A short video summarizing the project, where the team explains the analysis and findings using a condensed version of the slides.
   
 ## 🧠 Lessons Learned
 
 1. Understand the dataset deeply by studying the data dictionary 
 
-- Use the data dictionary to confirm exactly what each column represents (definitions, units, valid values).
+  - Use the data dictionary to confirm exactly what each column represents (definitions, units, valid values).
 
 2. Don’t get stuck on one idea.
 
-- Be willing to pivot from you original idea or ask new questions as patterns emerge. An iterating process allows for clearer research questions and more actionable findings.
+  - Be willing to pivot from you original idea or ask new questions as patterns emerge. An iterating process allows for clearer research questions and more actionable findings.
 
 ## 🚀 Next Steps
 
