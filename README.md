@@ -105,6 +105,16 @@ Deterrence Campaigns:
 
 - Selected charts integrated into a PowerPoint slide deck for final presentation.
 
+## 🧠 Lessons Learned
+
+Understand the dataset deeply by studying the data dictionary 
+
+- Use the data dictionary to confirm exactly what each column represents (definitions, units, time zones, valid values) so analyses and visuals don’t misinterpret fields.
+
+Don’t get stuck on one idea.
+
+- Be willing to pivot from you original idea or ask new questions as patterns emerge. An iterating process allows for clearer research questions and more actionable findings.
+
 ## 🚀 Next Steps
 
 - Develop a pricing model to adequately match fine amounts to the level of delay each violation type causes for NYC buses.
