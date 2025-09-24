@@ -1,9 +1,9 @@
-🚍 NYC Bus Violation Impact Analysis
-📖 Project Overview
+# 🚍 NYC Bus Violation Impact Analysis
+# 📖 Project Overview
 
 This project was developed as part of the MHC++ Datathon, a competition focused on data-driven solutions to real-world problems. Our team analyzed MTA Bus Automated Camera Enforcement (ACE) violation data and bus speed data to understand how different types of traffic violations impact travel times and delays.
 
-🏙️ Background
+## 🏙️ Background
 
 The Automated Camera Enforcement (ACE) program is used by the MTA to monitor traffic violations that disrupt bus operations. ACE cameras automatically detect vehicles committing violations and issue fines.
 
