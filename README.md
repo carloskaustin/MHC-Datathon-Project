@@ -109,7 +109,7 @@ Deterrence Campaigns:
 
 Understand the dataset deeply by studying the data dictionary 
 
-- Use the data dictionary to confirm exactly what each column represents (definitions, units, time zones, valid values) so analyses and visuals don’t misinterpret fields.
+- Use the data dictionary to confirm exactly what each column represents (definitions, units, valid values).
 
 Don’t get stuck on one idea.
 
