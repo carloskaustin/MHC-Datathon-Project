@@ -7,17 +7,17 @@ This project was developed as part of the MHC++ Datathon, a competition focused 
 
 The Automated Camera Enforcement (ACE) program is used by the MTA to monitor traffic violations that disrupt bus operations. ACE cameras automatically detect vehicles committing violations and issue fines.
 
-Initial Fine: $50 for a first violation (same amount across all violation types).
+Initial Fine: $50 for a first violation
 
 Uniform Fines: All violations result in the same penalty, regardless of impact.
 
 Main Violation Types:
 
-Bus lane violations – vehicles blocking or driving in bus-only lanes.
+- Bus lane violations – vehicles blocking or driving in bus-only lanes.
 
-Bus stop violations – vehicles obstructing designated bus stops.
+- Bus stop violations – vehicles obstructing designated bus stops.
 
-Double parking violations – vehicles blocking traffic by parking illegally alongside another vehicle.
+- Double parking violations – vehicles blocking traffic by parking illegally alongside another vehicle.
 
 ## ❓ Research Questions
 
