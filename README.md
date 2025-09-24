@@ -21,23 +21,23 @@ Main Violation Types:
 
 ## ❓ Research Questions
 
-Should all fines cost the same amount?
+- Should all fines cost the same amount?
 
-Do some violations affect travel time more than others?
+- Do some violations affect travel time more than others?
 
 ## 📊 Datasets
 
 We combined violation data with bus route segment speeds to measure the effect of traffic violations on delays.
 
-MTA Bus Automated Camera Enforcement Violations
+- MTA Bus Automated Camera Enforcement Violations
 
 Contains records of traffic violations (bus lane, double parked, bus stop blockages).
 
-MTA Bus Route Segment Speeds (Beginning 2025)
+- MTA Bus Route Segment Speeds (Beginning 2025)
 
 Records bus speeds by route segment starting in 2025.
 
-MTA Bus Route Segment Speeds (2023–2024)
+- MTA Bus Route Segment Speeds (2023–2024)
 
 Historical dataset of bus segment speeds for 2023–2024.
 
