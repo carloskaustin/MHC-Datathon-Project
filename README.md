@@ -118,7 +118,7 @@ This repository includes all files developed and submitted for the MHC++ Datatho
 
     - Use the data dictionary to confirm exactly what each column represents (definitions, units, valid values).
 
-2. Don’t get stuck on one idea.
+2. Don’t get stuck on one idea
 
     - Be willing to pivot from you original idea or ask new questions as patterns emerge. An iterating process allows for clearer research questions and more actionable findings.
 
