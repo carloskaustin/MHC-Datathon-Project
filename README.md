@@ -109,22 +109,22 @@ Deterrence Campaigns:
 
 This repository includes all files developed and submitted for the MHC++ Datathon:
 
-MHC++ Datathon Project.ipynb
+1. MHC++ Datathon Project.ipynb
 - Jupyter Notebook containing all Python code used for cleaning, merging, and analyzing the datasets, as well as generating charts.
 
-MHC++ Datathon Presentation Slides.pdf
+2. MHC++ Datathon Presentation Slides.pdf
 - Full presentation slides used during the datathon, including visuals, key findings, and recommendations.
 
-MHC++ Datathon Condensed Video Presentation.mp4
+3. MHC++ Datathon Condensed Video Presentation.mp4
 - A short video summarizing the project, where the team explains the analysis and findings using a condensed version of the slides.
   
 ## 🧠 Lessons Learned
 
-Understand the dataset deeply by studying the data dictionary 
+1. Understand the dataset deeply by studying the data dictionary 
 
 - Use the data dictionary to confirm exactly what each column represents (definitions, units, valid values).
 
-Don’t get stuck on one idea.
+2. Don’t get stuck on one idea.
 
 - Be willing to pivot from you original idea or ask new questions as patterns emerge. An iterating process allows for clearer research questions and more actionable findings.
 
