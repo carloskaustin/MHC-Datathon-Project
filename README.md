@@ -109,9 +109,6 @@ This repository includes all files developed and submitted for the MHC++ Datatho
 2. MHC++ Datathon Presentation Slides.pdf
     - Full presentation slides used during the datathon, including visuals, key findings, and recommendations.
 
-3. MHC++ Datathon Condensed Video Presentation.mp4
-    - A short video summarizing the project, where the team explains the analysis and findings using a condensed version of the slides.
-  
 ## 🧠 Lessons Learned
 
 1. Understand the dataset deeply by studying the data dictionary 
