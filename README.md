@@ -67,7 +67,7 @@ We combined violation data with bus route segment travel times to measure the ef
 
 - Even small per-segment delays compound across full bus routes, affecting thousands of riders daily.
 
-- Current fines ($50 first offense) are uniform, but findings suggest some violations (like bus lane blockages) have disproportionately higher impacts — raising the question of whether fines should vary by violation type.
+- Current fines ($50 first offense) are uniform, but findings suggest some violations (like bus lane blockages) have disproportionately higher impacts. This raises the question of whether fines should vary by violation type.
 
 ## ⚠️ Limitations
 
