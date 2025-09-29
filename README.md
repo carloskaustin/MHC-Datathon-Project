@@ -71,7 +71,7 @@ We combined violation data with bus route segment travel times to measure the ef
 
 ## ⚠️ Limitations
 
-- The analysis could not fully isolate each violation type by holding the other two at zero. For example, bus lane violations were not measured independently of bus-stop and double-parked violations, so overlap may influence the observed delays.
+- The analysis could not fully isolate each violation type by holding the other two at zero. For example, bus lane violations were not measured independently of bus stop and double parked violations, so overlap may influence the observed delays.
 
 ## 💡 Business Recommendations
 
